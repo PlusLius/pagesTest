@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "homepage":"https://github.com/PlusLius/pagesTest/tree/master",
+  "scripts":{
+    "deploy":"gh-pages -d ./",
+    "predeploy":"echo test" 
+  }
+}
