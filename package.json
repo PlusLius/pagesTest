@@ -2,7 +2,7 @@
   "dependencies": {
     "gh-pages": "^2.0.1"
   },
-  "homepage":"https://github.com/PlusLius/pagesTest/tree/master",
+  "homepage":"https://PlusLius.github.io/pagesTest",
   "scripts":{
     "deploy":"gh-pages -d ./",
     "predeploy":"echo test" 
